@@ -2,7 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-
 html,
 body {
   padding: 0;
@@ -22,5 +21,10 @@ a {
 
 @font-face {
   font-family: "burtons";
+
   src: url("../public/Burtons.otf");
+}
+
+.image1 {
+  margin: 0 auto;
 }
